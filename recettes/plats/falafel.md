@@ -1,0 +1,42 @@
+---
+sidebar: auto
+---
+
+# Falafel
+
+## Ingrédients
+
+-  250 g pois chiche sec
+-  4 gousses d'ail
+-  1 oignon
+-  1 cas graines de sésames dorés
+-  1 bouquet de persil
+-  2 cac cumin
+-  2 cac coriandre en poudre
+-  1 cac paprika
+-  poivre
+-  sel
+
+## Instructions
+
+La veille tremper les pois chiche dans de l'eau en prenant soin de bien recouvrir les pois chiche
+
+Égoutter et rincer les pois chiches. Les sécher avec du papier absorbant (il faut bien les essuyer)
+
+Verser les pois chiche dans un robot culinaire. Ajouter l'oignons, les gousses d'ail.
+
+Ajouter le sel, poivre, cumin, paprika, coriandre en poudre, cayenne et bicarbonate,
+
+Ajouter la coriandre, persil et ou menthe
+
+Mixer par petites pulsion le tout. Racler les parois et mixer une seconde fois jusqu’à obtenir une texture ni trop fine ni trop épaisse entre le couscous et une pâte. Il faut que le mélange tienne mais ne soit pas comme le houmous.
+
+Verser le mélange dans un bol. Ne pas hésiter a retirer les gros morceaux de pois chiche.
+
+Couvrir le bol de film plastique et mettre au frais durant 1h.
+
+Faire chauffer de l'huile dans une poêle a feu doux (j'utilise ma friteuse).
+
+Former des boules de falafel en ayant préalablement mouille les mains cela permet a la pâte de ne pas coller aux mains.
+
+Plonger les boules de falafel dans l'huile chaude. des qu'ils dorent d'un cote les retourner.
