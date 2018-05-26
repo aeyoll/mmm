@@ -31,7 +31,7 @@ Verser les pois chiche dans un robot culinaire. Ajouter l'oignons, les gousses d
 
 Ajouter le sel, poivre, cumin, paprika, coriandre en poudre, cayenne et bicarbonate,
 
-Ajouter la coriandre, persil et ou menthe
+Ajouter le persil
 
 Mixer par petites pulsion le tout. Racler les parois et mixer une seconde fois jusqu’à obtenir une texture ni trop fine ni trop épaisse entre le couscous et une pâte. Il faut que le mélange tienne mais ne soit pas comme le houmous.
 
