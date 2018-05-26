@@ -6,16 +6,20 @@ sidebar: auto
 
 ## Ingrédients
 
--  250 g pois chiche sec
--  4 gousses d'ail
--  1 oignon
--  1 cas graines de sésames dorés
--  1 bouquet de persil
--  2 cac cumin
--  2 cac coriandre en poudre
--  1 cac paprika
--  poivre
--  sel
+Pour 30 falafels
+
+- 500 g pois chiche sec
+- 4 gousses d'ail
+- 1 oignon
+- 1 cac bicarbonate
+- 1 cas graines de sésames dorés
+- 1 bouquet de persil
+- 2 cac cumin
+- 2 cac coriandre en poudre
+- 1/2 cac paprika
+- pincée de cayenne (facultatif)
+- poivre
+- sel
 
 ## Instructions
 
