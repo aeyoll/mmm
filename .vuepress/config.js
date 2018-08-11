@@ -6,6 +6,6 @@ module.exports = {
   themeConfig: {
     serviceWorker: {
       updatePopup: true
-  	}
+    }
   }
 }
