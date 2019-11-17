@@ -6,5 +6,6 @@ title: Desserts
 
 * [Carrot cake](recettes/desserts/carrot-cake)
 * [Crumble aux pommes](recettes/desserts/crumble-aux-pommes)
+* [M'halbi](recettes/desserts/m-halbi)
 * [Pancakes](recettes/desserts/pancakes)
 * [Tarte aux peches citron vert romarin](recettes/desserts/tarte-aux-peches-citron-vert-romarin)
