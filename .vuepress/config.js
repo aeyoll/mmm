@@ -1,7 +1,7 @@
 module.exports = {
   base: '/mmm/',
   title: 'Mambo Miam Miam',
-  description: 'Petit collection personnelle de recettes',
+  description: 'Petite collection personnelle de recettes',
   serviceWorker: true,
   themeConfig: {
     serviceWorker: {
