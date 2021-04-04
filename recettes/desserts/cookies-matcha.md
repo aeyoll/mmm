@@ -4,11 +4,11 @@ sidebar: auto
 
 # Cookies matcha
 
-## Ingrédients pour 4 cookies:
+## Ingrédients pour 4 cookies :
 
 - 115g de farine tamisée
-- 60g de beurre demis sel
-- 1oeuf
+- 60g de beurre demi-sel
+- 1 oeuf
 - 35g de cassonade
 - 10g de sucre blanc
 - 1 cuillère à café de levure
@@ -18,5 +18,5 @@ sidebar: auto
 
 ## Instructions
 
-- 1h au congelo
-- Four préchauffé a 200°, cuisson 13/15 min a 180°
+- 1h au congélateur
+- Four préchauffé à 200°, cuisson 13/15 min à 180°
